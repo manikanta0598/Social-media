@@ -1,0 +1,42 @@
+.classrightbar {
+  flex: 3;
+  margin-left: 40px;
+}
+.righttop {
+  margin: 15px;
+  display: flex;
+  align-items: center;
+}
+.gift {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+.adver {
+  margin-top: 30px;
+  height: 300px;
+  width: 385px;
+  border-radius: 10px;
+}
+.rightbottom h4 {
+  margin-top: 10px;
+}
+.onlinefriends {
+  margin-top: 20px;
+}
+.onlinefriendslist {
+  margin-top: 60px;
+}
+.onlinefriendicon {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.onlinefrienditem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
